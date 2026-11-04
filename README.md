@@ -8,7 +8,17 @@ Built with **Next.js 16**, **TypeScript**, **Tailwind CSS**, and reusable React 
 
 ## Live Demo
 
-Coming soon — deployment in progress.
+🌐 [View Live Website](https://tavunote-portfolio.vercel.app/)
+
+## Screenshots
+
+### Desktop
+
+![Desktop Preview](public/screenshots/desktop.png)
+
+### Mobile
+
+![Mobile Preview](public/screenshots/mobile.png)
 
 ## Overview
 
@@ -107,7 +117,8 @@ components/
 ├── ui/                # Shared reusable UI components
 └── site.tsx           # Main page composition
 
-public/                # Static assets
+public/
+└── screenshots/       # Project preview images
 
 next.config.ts         # Next.js configuration
 tailwind.config.ts     # Tailwind CSS configuration
